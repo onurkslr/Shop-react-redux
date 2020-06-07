@@ -1,3 +1,31 @@
+![Giriş](https://user-images.githubusercontent.com/44475035/83981622-3b7c2880-a928-11ea-8c4b-30b36379bb5f.PNG)
+
+![Change-Category](https://user-images.githubusercontent.com/44475035/83981628-46cf5400-a928-11ea-8d6f-0dc9671c7d3e.PNG)
+
+Category has changed and we can see the products in the selected category.
+
+![AddToCart](https://user-images.githubusercontent.com/44475035/83981629-4b940800-a928-11ea-97f1-10ae907fc86a.PNG)
+
+Products added to the cart.
+
+![seeToCartOnRoot](https://user-images.githubusercontent.com/44475035/83981633-5484d980-a928-11ea-8eb0-0cf95551727e.PNG)
+
+We can see added products.
+
+![GoToCart](https://user-images.githubusercontent.com/44475035/83981639-5a7aba80-a928-11ea-8bc0-52247c0aeefa.PNG)
+
+We can see added product on cart page.
+
+![deleted](https://user-images.githubusercontent.com/44475035/83981649-6797a980-a928-11ea-93d5-a197cd34431e.PNG)
+
+Product deleted.
+
+![db_categories](https://user-images.githubusercontent.com/44475035/83981651-6c5c5d80-a928-11ea-96ab-0c004b4af8f2.PNG)
+![db_products](https://user-images.githubusercontent.com/44475035/83981655-73836b80-a928-11ea-80a7-c49055ed4185.PNG)
+
+(JSON) Datas
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
